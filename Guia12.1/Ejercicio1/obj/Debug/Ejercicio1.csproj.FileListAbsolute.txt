@@ -1,0 +1,13 @@
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.ventanaPrincipal.resources
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.ventanaInscripcion.resources
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.ventanaCargarTiempo.resources
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.ventanaVerResultado.resources
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Alumno\source\repos\Guia12.1\Ejercicio1\obj\Debug\Ejercicio1.pdb
